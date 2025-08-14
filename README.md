@@ -1,7 +1,9 @@
 # Olá, me chamo Leandro ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
-Sou bacharel em Sistemas de Informação pelo Instituto Federal de Educação, Ciência e Tecnologia do Espírito Santo e também tenho curso técnico em informática pelo mesmo instituto. Atualmente trabalho como técnico em informática e Android Developer nas horas vagas 😄.
+Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web e mobile. Atualmente, atuo com Flutter para criação de aplicativos Android e iOS, além de JavaScript (React, Node.js) e Python com FastAPI para desenvolvimento de APIs e sistemas web.
+
+Sou Bacharel em Sistemas de Informação e Técnico em Informática pelo Instituto Federal do Espírito Santo (IFES), onde participei de projetos de iniciação científica que enriqueceram minha formação acadêmica e fortaleceram minha atuação profissional nas áreas de Desenvolvimento de Software e Tecnologia da Informação.
 
 ## Ferramentas e Tecnologias ⚡
 <div>
@@ -19,7 +21,7 @@ Sou bacharel em Sistemas de Informação pelo Instituto Federal de Educação, C
 ## Redes 📫
 
 <div>
-  <a href ="https://www.linkedin.com/in/leandroferreira1/">
+  <a href ="https://www.linkedin.com/in/leandroferreiraoliveira/">
     <img style="width:60px;height:60px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
 </div>
